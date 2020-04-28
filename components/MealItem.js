@@ -8,7 +8,8 @@ import {
 	TouchableNativeFeedback,
 	ImageBackground,
 } from 'react-native';
-import DefaultText from './Defaulttext';
+
+import DefaultText from './DefaultText';
 
 const MealItem = (props) => {
 	let ButtoComponent = TouchableOpacity;
